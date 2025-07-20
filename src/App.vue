@@ -4,7 +4,7 @@
     <nav class="navbar" :class="{ 'navbar-scrolled': scrolled }">
       <div class="nav-container">
         <div class="nav-logo">
-          <span class="logo-text">xu jin tai</span>
+          <span class="logo-text">xu jintai</span>
         </div>
         <div class="nav-links">
           <a href="#home" @click="scrollToSection('home')">首页</a>
